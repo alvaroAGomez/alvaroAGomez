@@ -44,8 +44,9 @@ Me gusta seguir mejorando mis habilidades en desarrollo fullstack, explorar nuev
 
 ## 📫 Cómo contactarme
 
-Podés escribirme por acá o conectarte conmigo en alguna red social (¡agregalas si querés!).
-
+Podés escribirme por acá o conectarte conmigo en alguna red social .
+- https://www.linkedin.com/in/alvaro-a-gomez/
+- https://www.instagram.com/alvaro.a.g/
 ---
 
 > "La mejor forma de predecir el futuro es crearlo." – Peter Drucker
